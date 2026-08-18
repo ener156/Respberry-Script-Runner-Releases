@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.0",
-  "versionCode": 4,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.0.apk",
-  "sha256": "1b4c0d193d5629b10cdebd9620eda3bd6ab3c3b18b5165a6e15cedc25026ce0c",
-  "notes": "Automatisch veröffentlichte Version 0.4.0"
+  "versionName": "0.4.1",
+  "versionCode": 5,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.1.apk",
+  "sha256": "53101c944bc1b22eb67c9332477882e5dd4f9a6e32a0267178a7cea29764a656",
+  "notes": "Automatisch veröffentlichte Version 0.4.1"
 }
