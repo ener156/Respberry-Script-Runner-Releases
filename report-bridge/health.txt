@@ -1,5 +1,0 @@
-Respberry Report Bridge
-status=ok
-transport=github-raw
-created=2026-08-20T12:32:00+02:00
-purpose=ChatGPT public report transport probe
