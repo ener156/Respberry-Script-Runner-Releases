@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.73",
-  "versionCode": 77,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.73.apk",
-  "sha256": "66dd524ecf44938d4e1d5675d3762d85ee25e2918e46be6fe9931cd5de613656",
-  "notes": "Add optional Android biometric approval before secret use "
+  "versionName": "0.4.74",
+  "versionCode": 78,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.74.apk",
+  "sha256": "da20448d27ab6875736028464ac729d15aa7cdc54d2743b9be61c4a023a7fd4a",
+  "notes": "Localize Android foreground SSH notification "
 }
