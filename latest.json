@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.72",
-  "versionCode": 76,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.72.apk",
-  "sha256": "b9b46c615a454a285ff80d796867ec6e57a65bb039f358af8c5e99723a48e77f",
-  "notes": "Automatisch veröffentlichte Version 0.4.72"
+  "versionName": "0.4.73",
+  "versionCode": 77,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.73.apk",
+  "sha256": "66dd524ecf44938d4e1d5675d3762d85ee25e2918e46be6fe9931cd5de613656",
+  "notes": "Add optional Android biometric approval before secret use "
 }
