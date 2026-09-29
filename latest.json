@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.76",
-  "versionCode": 80,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.76.apk",
-  "sha256": "88de1f711b6cbcfa3333d61b3b7897681906a3991d8181193cb7322d346c4943",
-  "notes": "Add Android GitHub settings section resource "
+  "versionName": "0.4.77",
+  "versionCode": 81,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.77.apk",
+  "sha256": "603dd884d6b8777ceccfb2e0791fdaae62203e4d8d7c241a5521610de056dbe7",
+  "notes": "Finalize Android report before publishing run completion "
 }
