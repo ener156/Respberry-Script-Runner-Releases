@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.77",
-  "versionCode": 81,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.77.apk",
-  "sha256": "603dd884d6b8777ceccfb2e0791fdaae62203e4d8d7c241a5521610de056dbe7",
-  "notes": "Finalize Android report before publishing run completion "
+  "versionName": "0.4.78",
+  "versionCode": 82,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.78.apk",
+  "sha256": "0c36e51f69cdea78707c85783e4cbd4ed10916e99af287f63a6b75e2f2deb142",
+  "notes": "Restore Android per-run report initializer "
 }
