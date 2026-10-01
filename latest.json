@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.83",
-  "versionCode": 87,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.83.apk",
-  "sha256": "de9d7a71612e7a7eba9c9c045c014469bdf76d3fee53f9d664c532a302e767d5",
-  "notes": "Restore Android terminal ScrollView after inflate crash "
+  "versionName": "0.4.84",
+  "versionCode": 88,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.84.apk",
+  "sha256": "9cf0bce60b2589e40a8b6d55b793962a51b4855de35582b48b30ef65ac17c3d1",
+  "notes": "Harden Android pre-activity startup and record process crashes "
 }
