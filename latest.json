@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.79",
-  "versionCode": 83,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.79.apk",
-  "sha256": "a53a55d8538ecb9ffee6d170ad75fb49776c57b71febb3bcc205777a198bc36d",
-  "notes": "Expand GitHub sorting and add atomic bulk delete "
+  "versionName": "0.4.80",
+  "versionCode": 84,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.80.apk",
+  "sha256": "a58e7d9830a0ddc66ad5dabc1022a8b46c3eec67ca861a4aebb81366d32e234f",
+  "notes": "Fix Android terminal touch scrolling "
 }
