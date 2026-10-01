@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.80",
-  "versionCode": 84,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.80.apk",
-  "sha256": "a58e7d9830a0ddc66ad5dabc1022a8b46c3eec67ca861a4aebb81366d32e234f",
-  "notes": "Fix Android terminal touch scrolling "
+  "versionName": "0.4.81",
+  "versionCode": 85,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.81.apk",
+  "sha256": "e54d4ebbf4a11c280397a8699c7b699a38c2e44a385a3aac89949ae9dd80cd4f",
+  "notes": "Recover Android startup by isolating W010 changes "
 }
