@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.93",
-  "versionCode": 97,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.93.apk",
-  "sha256": "3b5ca0189b8f20ad14401c2cc6b6131244fcaf96957aee6502185eec4534585f",
-  "notes": "Guard Android MAIN-only evidence binding "
+  "versionName": "0.4.94",
+  "versionCode": 98,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.94.apk",
+  "sha256": "1e3408ec3839d39d026456172facec1f9f90b86dab58f755f87fec19a26f5048",
+  "notes": "Harden failure file secret path policy "
 }
