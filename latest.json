@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.88",
-  "versionCode": 92,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.88.apk",
-  "sha256": "9fbf5f807080907e8b4da7c189215da5896c3428588dd126fbb762319b1bedf0",
-  "notes": "Test Android post-failure diagnostic contracts "
+  "versionName": "0.4.89",
+  "versionCode": 93,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.89.apk",
+  "sha256": "9d6b12fbc4f976410fab4f02e5645450bba2c0a30818e306a485aec551762571",
+  "notes": "Fix post-success cleanup test fixture "
 }
