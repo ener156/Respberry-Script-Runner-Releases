@@ -4,5 +4,5 @@
   "versionCode": 108,
   "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.104.apk",
   "sha256": "1be24bfe13e0f7e35f887dec681c24341631220439e8b8afdffe83dcf97b02f6",
-  "notes": "W-010 remove temporary incremental-cache CI "
+  "notes": "Keep GitHub date sorting cached when scripts are added or changed"
 }
