@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.101",
-  "versionCode": 105,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.101.apk",
-  "sha256": "9d56bbe42fe24a2f2e2caf267434b560383504ab4541820bbe85a2c5ad534d78",
-  "notes": "Add generic RC explanation contract "
+  "versionName": "0.4.102",
+  "versionCode": 106,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.102.apk",
+  "sha256": "1192e8ec0cdfdf370c4f93641f3fa1e6139cbe1d54b6b9493c9ca28935244da3",
+  "notes": "W-010 optimize GitHub script loading "
 }
