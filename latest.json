@@ -4,5 +4,5 @@
   "versionCode": 107,
   "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.103.apk",
   "sha256": "24f1d2a96267a8c899b2c4611778f3d19d0adbabcb62ce30ab3aaef81a79aff0",
-  "notes": "W-011 remove temporary branch CI "
+  "notes": "Fix update build percent recovery-screen error"
 }
