@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.107",
-  "versionCode": 111,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.107.apk",
-  "sha256": "3a2d47aba9e50b51072dad68083c0dda4edad9641024be50ff9c60164220f26e",
-  "notes": "W-007: structured runner issues in terminal status UI "
+  "versionName": "0.4.108",
+  "versionCode": 112,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.108.apk",
+  "sha256": "2a8b5fe1d003ca561d4a006bf0e338b5292689d9798a008067ad570c83d27672",
+  "notes": "W-007: show Android main failure in issue panel "
 }
