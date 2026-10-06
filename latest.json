@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.111",
-  "versionCode": 115,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.111.apk",
-  "sha256": "54d461da834b53544a616596796ed5b823acb283c5fc81a3979658083f8ccc82",
-  "notes": "W-007: batch Android remote output before UI thread "
+  "versionName": "0.4.112",
+  "versionCode": 116,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.112.apk",
+  "sha256": "b571b36e68b1d7f4cf41a3c5fcf698a78a0b8d276e856d620c4ed144f9c6c684",
+  "notes": "W-007: throttle Android live output under overload "
 }
