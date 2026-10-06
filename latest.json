@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.110",
-  "versionCode": 114,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.110.apk",
-  "sha256": "770499965fdf3c23356d5028975a0cc1d1313f43787028567725e7b8b19e983b",
-  "notes": "W-011: report Android historical abnormal process exits "
+  "versionName": "0.4.111",
+  "versionCode": 115,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.111.apk",
+  "sha256": "54d461da834b53544a616596796ed5b823acb283c5fc81a3979658083f8ccc82",
+  "notes": "W-007: batch Android remote output before UI thread "
 }
