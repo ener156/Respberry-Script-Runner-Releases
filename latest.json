@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.113",
-  "versionCode": 117,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.113.apk",
-  "sha256": "1ed68ff6827994b67b1864d10fd63f5211e9e6a7bd2ea1406577690d60aa70f9",
-  "notes": "Merge PR #9: W-010 GitHub selection catalogs "
+  "versionName": "0.4.114",
+  "versionCode": 118,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.114.apk",
+  "sha256": "13d2236f36bef2a089de51a21b34afcc4c991d612244dee0d57c24c1bd244ae8",
+  "notes": "Merge PR #11: W-008 updater foreground memory visibility "
 }
