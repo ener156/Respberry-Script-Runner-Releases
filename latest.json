@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.115",
-  "versionCode": 119,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.115.apk",
-  "sha256": "4b46cf4b9327b142d3a4b2fa6966bd59ceed19935185dedda225406c91b0d2c1",
-  "notes": "Merge PR #12: W-008 stale cached APK recovery "
+  "versionName": "0.4.116",
+  "versionCode": 120,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.116.apk",
+  "sha256": "311981b1849091b2d473b2152e6b0ad49b5dd2f33d2edd46aac85dd7415c342b",
+  "notes": "Merge PR #13: W-010 rejected deletion feedback "
 }
