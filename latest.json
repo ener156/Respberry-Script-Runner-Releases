@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.133",
-  "versionCode": 137,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.133.apk",
-  "sha256": "bb194e1e38a09a8cd11fe614bde31c6caeb02c220be5872c1856a9f3f3c1042a",
-  "notes": "Android: constrain terminal settings content to keep actions visible (#32) "
+  "versionName": "0.4.134",
+  "versionCode": 138,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.134.apk",
+  "sha256": "3722a39deaeb86ead577b1ee230f780c9de54a5d4d2d5eea6e55547647f5e5d6",
+  "notes": "CI: avoid Docker Hub rate limit for W-012 SSH tests (#34) "
 }
