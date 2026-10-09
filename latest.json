@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.121",
-  "versionCode": 125,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.121.apk",
-  "sha256": "58ff0fb675483d0698a0b6ddc3ce59105f7bb36c9e8ac72ec3b655ad06c448d9",
-  "notes": "W-007 Android: inline terminal text selection and no row fades (#18) "
+  "versionName": "0.4.122",
+  "versionCode": 126,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.122.apk",
+  "sha256": "49d018b6b81fadb5945cdf4886b2c2477906699dc6eadd35a09db47cdf2ac906",
+  "notes": "W-007 Android: keep scroll position across live output and completion (#19) "
 }
