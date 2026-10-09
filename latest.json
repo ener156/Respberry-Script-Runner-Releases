@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.128",
-  "versionCode": 132,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.128.apk",
-  "sha256": "3d24c3c73ff6f8447f7353db020aea418e791017d0a44754e1232e94b6668018",
-  "notes": "W-007: fix adaptive-scroll JVM test compile (#27) "
+  "versionName": "0.4.129",
+  "versionCode": 133,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.129.apk",
+  "sha256": "1792bb2ccf4e42f015b7576f9de9277634ed1112bcf7d88e03f2268b1b6fff35",
+  "notes": "W-007 Android: temporarily revert adaptive scroll for A/B comparison (#28) "
 }
