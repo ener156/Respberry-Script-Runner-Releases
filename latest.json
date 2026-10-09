@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.135",
-  "versionCode": 139,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.135.apk",
-  "sha256": "10060dfbdc21437810b154d1085a9fb810bfeaa5dd155f6d5a0a04e039d32d90",
-  "notes": "W-007: keep terminal prefetch pages near scrolling viewport (#35) "
+  "versionName": "0.4.136",
+  "versionCode": 140,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.136.apk",
+  "sha256": "bc063a88e13aa4664c000c07be06a3240eafdab177c16e6d70d94ef8a97d6314",
+  "notes": "Android: show GitHub Actions build failures in issues view (#36) "
 }
