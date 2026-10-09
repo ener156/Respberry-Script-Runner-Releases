@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.130",
-  "versionCode": 134,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.130.apk",
-  "sha256": "5ca8a66ceac611a829925dcf82b0e28000cf59eeb03dfc8a6d779b9f1e83eb65",
-  "notes": "W-007 Android: adjustable 1x–16x terminal auto-scroll slider (#29) "
+  "versionName": "0.4.131",
+  "versionCode": 135,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.131.apk",
+  "sha256": "4bf75bfd60d50f651dc7125ea27f4da7efae32462375e240c4c0ef258bf9cc5d",
+  "notes": "W-007 Android: optional acceleration with adjustable maximum speed (#30) "
 }
