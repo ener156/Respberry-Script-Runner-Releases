@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.125",
-  "versionCode": 129,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.125.apk",
-  "sha256": "a3fa57cfabea0c225e56e4ef475c5de6241e0d3530563ff8ef6a4cd45ee9b412",
-  "notes": "W-007 Android: compact latest-output footer and avoid finish snap (#23) "
+  "versionName": "0.4.126",
+  "versionCode": 130,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.126.apk",
+  "sha256": "8ea21efa938c0f64307acd8c77d3e5aa16d94e58e466fda7345dadb5ce64e53b",
+  "notes": "W-007 Android: test bounded-duration time-based terminal auto-follow (#24) "
 }
