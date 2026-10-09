@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.134",
-  "versionCode": 138,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.134.apk",
-  "sha256": "3722a39deaeb86ead577b1ee230f780c9de54a5d4d2d5eea6e55547647f5e5d6",
-  "notes": "CI: avoid Docker Hub rate limit for W-012 SSH tests (#34) "
+  "versionName": "0.4.135",
+  "versionCode": 139,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.135.apk",
+  "sha256": "10060dfbdc21437810b154d1085a9fb810bfeaa5dd155f6d5a0a04e039d32d90",
+  "notes": "W-007: keep terminal prefetch pages near scrolling viewport (#35) "
 }
