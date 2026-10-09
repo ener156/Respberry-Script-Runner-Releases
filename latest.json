@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.122",
-  "versionCode": 126,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.122.apk",
-  "sha256": "49d018b6b81fadb5945cdf4886b2c2477906699dc6eadd35a09db47cdf2ac906",
-  "notes": "W-007 Android: keep scroll position across live output and completion (#19) "
+  "versionName": "0.4.123",
+  "versionCode": 127,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.123.apk",
+  "sha256": "65d276ae69b862a9ff80dadde3b73a60c49317463884b1992f61daca2a18f88d",
+  "notes": "W-007 Android: smooth, coalesced automatic terminal follow (#20) "
 }
