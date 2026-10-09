@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.119",
-  "versionCode": 123,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.119.apk",
-  "sha256": "14731fbe3b6bc3acd82cc071c6b0451b2c3b57250027ffa42a48938b458b0f15",
-  "notes": "W-007 Android: selectable terminal snapshot copy (#16) "
+  "versionName": "0.4.120",
+  "versionCode": 124,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.120.apk",
+  "sha256": "67b2b34220af663f5d710d6908bc889b06577295f5aa7042de774da4d700fab3",
+  "notes": "W-007 Android: opt-in indexed RecyclerView terminal (#17) "
 }
