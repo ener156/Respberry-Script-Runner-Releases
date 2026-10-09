@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.132",
-  "versionCode": 136,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.132.apk",
-  "sha256": "9ef95010db7e77199aa07382952fe44287cf7fa3e3769d167afb22fbb2bd3677",
-  "notes": "W-007 Android: opt-in passive scroll trace for device diagnosis (#31) "
+  "versionName": "0.4.133",
+  "versionCode": 137,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.133.apk",
+  "sha256": "bb194e1e38a09a8cd11fe614bde31c6caeb02c220be5872c1856a9f3f3c1042a",
+  "notes": "Android: constrain terminal settings content to keep actions visible (#32) "
 }
