@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.138",
-  "versionCode": 142,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.138.apk",
-  "sha256": "e557010db13c5c7ed5791acecfb9629a7e0f00947d524756b64e529f60fc0c41",
-  "notes": "W-007: live follow speed indicator and ultra-slow options (#38) "
+  "versionName": "0.4.139",
+  "versionCode": 143,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.139.apk",
+  "sha256": "e66802a0add01a4a393c1aee2f661b54f6c088f4cbce36cb1cc3100999de3084",
+  "notes": "W-007: display applied auto factor and acceleration inputs (#39) "
 }
