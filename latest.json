@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.141",
-  "versionCode": 145,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.141.apk",
-  "sha256": "894a9c461bfb928cb10434fe9bf9dafe4de215c7fb0599c64780a7f4e40dce00",
-  "notes": "W-007: wait for layout before continuous follow determines bottom (#43) "
+  "versionName": "0.4.142",
+  "versionCode": 146,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.142.apk",
+  "sha256": "46a37bc655329e9c3990b3a536c265757cd1fe35c203c783818fd5f4d78f0e85",
+  "notes": "W-007: optional high-speed scroll profile with proven smooth default (#44) "
 }
