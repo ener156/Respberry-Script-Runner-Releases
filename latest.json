@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.143",
-  "versionCode": 147,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.143.apk",
-  "sha256": "78e906bab30697c6f477dfee9021910b58ac65d1e706e9f4f40a4807d6262ebd",
-  "notes": "W-007: keep approved classic auto-follow; remove dynamic modes (#45) "
+  "versionName": "0.4.144",
+  "versionCode": 148,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.144.apk",
+  "sha256": "4d13b72b4a676d462a6e7a48a9878f601f27ebab51699e6375934f86611bae6a",
+  "notes": "W-018: opt-in interactive SSH script replies with safe stdin framing (#46) "
 }
