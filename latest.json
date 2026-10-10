@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.144",
-  "versionCode": 148,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.144.apk",
-  "sha256": "4d13b72b4a676d462a6e7a48a9878f601f27ebab51699e6375934f86611bae6a",
-  "notes": "W-018: opt-in interactive SSH script replies with safe stdin framing (#46) "
+  "versionName": "0.4.145",
+  "versionCode": 149,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.145.apk",
+  "sha256": "086b2cf4fa6b23b7da884833c58996bb5eee23a4e3c7c0b1a82c2182aab452b3",
+  "notes": "W-018: show last interactive terminal output and SSH prompts (#47) "
 }
