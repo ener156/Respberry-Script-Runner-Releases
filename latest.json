@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.140",
-  "versionCode": 144,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.140.apk",
-  "sha256": "2bc7247c7bc2eaec98a3b0e06986b71a5107d03fb1ea66901c07d2c36582e51c",
-  "notes": "W-007: dynamic capped and self-limited auto-follow strategies (#41) "
+  "versionName": "0.4.141",
+  "versionCode": 145,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.141.apk",
+  "sha256": "894a9c461bfb928cb10434fe9bf9dafe4de215c7fb0599c64780a7f4e40dce00",
+  "notes": "W-007: wait for layout before continuous follow determines bottom (#43) "
 }
