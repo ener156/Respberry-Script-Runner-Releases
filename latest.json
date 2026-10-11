@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.149",
-  "versionCode": 153,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.149.apk",
-  "sha256": "324359e555c8dfb247bbec0d5990b5af6a78267cb2a13f59aea95d8916eaba4a",
-  "notes": "W-019: typed pinned GitHub argv profiles and Android preflight UI (#51) "
+  "versionName": "0.4.150",
+  "versionCode": 154,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.150.apk",
+  "sha256": "dd61fb3391290295badb410b86f91cbad347e00b906f19603f1b70689627328b",
+  "notes": "fix(w019): restore three visible Android parameter mode choices "
 }
