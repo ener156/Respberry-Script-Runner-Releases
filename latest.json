@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.155",
-  "versionCode": 159,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.155.apk",
-  "sha256": "25e06f52bf5d1c2d9ded4924046fe9626afb62bd3a5b5c4e3a7623a956425068",
-  "notes": "W-019: resolve COUNT report marker collisions (#57) "
+  "versionName": "0.4.156",
+  "versionCode": 160,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.156.apk",
+  "sha256": "d2fce2f029bcc5b057d1734da13cd203a92e82c5b3ccd342a491e6731752105b",
+  "notes": "W-019: localize parameter validation error (#59) "
 }
