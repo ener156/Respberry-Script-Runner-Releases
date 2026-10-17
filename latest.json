@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.158",
-  "versionCode": 162,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.158.apk",
-  "sha256": "3900b894b832055f3ebb4e11cbfe6664634e156de36c2ecbe6d175693f929fa2",
-  "notes": "Remove quota-blocked optional Actions artifact upload; publish signed APK directly "
+  "versionName": "0.4.159",
+  "versionCode": 163,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.159.apk",
+  "sha256": "4474adaee152821911f586e8554679fc4d9011fe9a5297b0eb483a91e7f2bcbf",
+  "notes": "Wire opt-in Bosgame Android API 35 emulator smoke into existing APK workflow [emulator] "
 }
