@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.157",
-  "versionCode": 161,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.157.apk",
-  "sha256": "934489312b630d14bf4e677b9a29001f5b0e2b122768baf6084c3f39e06c2b76",
-  "notes": "W020 test-only PR workflow: match stable project Gradle 8.9 "
+  "versionName": "0.4.158",
+  "versionCode": 162,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.158.apk",
+  "sha256": "3900b894b832055f3ebb4e11cbfe6664634e156de36c2ecbe6d175693f929fa2",
+  "notes": "Remove quota-blocked optional Actions artifact upload; publish signed APK directly "
 }
