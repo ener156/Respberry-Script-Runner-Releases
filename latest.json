@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.161",
-  "versionCode": 165,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.161.apk",
-  "sha256": "5097e2b964e21197e897d7bb0ea4aa4ba8d8c1e6418578acd314b56b047eef98",
+  "versionName": "0.4.162",
+  "versionCode": 166,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.162.apk",
+  "sha256": "0bc9eec8553e7b46695ef4f021c75d494323b468e3e1acb2fce7c6564363fdcf",
   "notes": "Correct Kotlin literal shell variables in fourteen-file remote test "
 }
