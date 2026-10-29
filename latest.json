@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.163",
-  "versionCode": 167,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.163.apk",
-  "sha256": "ba4acebdef56626a1a7b6c089f74ae521f5bb98a283dbb471ba3ff5e937ecc31",
+  "versionName": "0.4.164",
+  "versionCode": 168,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.164.apk",
+  "sha256": "79e9e2eb424aeafc2670b00bae71cde600e05e9a402904fde1160847089b3193",
   "notes": "Shared E5 OIDC Drive inbox scheduling and runner dispatch "
 }
