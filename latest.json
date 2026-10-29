@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.162",
-  "versionCode": 166,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.162.apk",
-  "sha256": "0bc9eec8553e7b46695ef4f021c75d494323b468e3e1acb2fce7c6564363fdcf",
-  "notes": "Correct Kotlin literal shell variables in fourteen-file remote test "
+  "versionName": "0.4.163",
+  "versionCode": 167,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.163.apk",
+  "sha256": "ba4acebdef56626a1a7b6c089f74ae521f5bb98a283dbb471ba3ff5e937ecc31",
+  "notes": "Shared E5 OIDC Drive inbox scheduling and runner dispatch "
 }
