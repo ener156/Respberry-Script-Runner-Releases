@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.170",
-  "versionCode": 174,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.170.apk",
-  "sha256": "74920c101dfc2a86c3074b8520ccf2ba57d87974dce68b88ae8a01418db98773",
-  "notes": "Disable scheduled Drive Watch renewal; retain manual recovery "
+  "versionName": "0.4.171",
+  "versionCode": 175,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.171.apk",
+  "sha256": "2d2516c1664e3703b6e9b80bc86c6d1247a1c64ad0298d126237a51e97d651ef",
+  "notes": "Renew Google Drive Watch twice weekly before six-day lease expires (no inbox scan) "
 }
