@@ -1,8 +1,8 @@
 {
   "appName": "Respberry Script Runner",
-  "versionName": "0.4.167",
-  "versionCode": 171,
-  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.167.apk",
-  "sha256": "e2ebc3d56e1b023262bcce1c0d202b56029c731f96366e9c0246e7057c0e7b5a",
-  "notes": "Add files via upload "
+  "versionName": "0.4.168",
+  "versionCode": 172,
+  "apkUrl": "https://raw.githubusercontent.com/ener156/Respberry-Script-Runner-Releases/main/releases/Respberry-Script-Runner-0.4.168.apk",
+  "sha256": "498ee251217c2c53f46dd49d3689fe5f4ef71a24b30fd3e37f0deb2f0ef9393f",
+  "notes": "Change runner from bosgame-android to e5-inbox "
 }
